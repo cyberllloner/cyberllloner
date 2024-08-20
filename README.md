@@ -42,15 +42,10 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cyberllloner&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="cyberllloner's GitHub Stats" /></div>  
+
+
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=cyberllloner&&style=flat-square" align="center" />
