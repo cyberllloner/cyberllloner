@@ -41,8 +41,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cyberllloner&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cyberllloner&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="cyberllloner's GitHub Stats" /></div>  
 <br/>  
 
 
