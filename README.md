@@ -1,7 +1,7 @@
 ### <div align="center">I'm Hosein, a Linux, networking, and cybersecurity enthusiast from Iran🇮🇷</div>  
   
 
-- 🌱 I’m currently learning Nginx, Pi-hole and Python
+- 🌱 I’m currently learning Nginx and Python
   
 - ⚡ Fun fact: In Wireshark, I feel like a DJ because every capture is a packet party! 🎧 🦈  
   
