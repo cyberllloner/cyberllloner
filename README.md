@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Hosein, a Linux, networking, and programming enthusiast<br><br>🌱 I’m currently learning networking and python
+I'm Hosein, a Linux, networking, cybersecurity and programming enthusiast<br><br>🌱 I’m currently learning networking and python
 
 
 # 💻 Tech Stack:
