@@ -1,5 +1,3 @@
-[![d6AFN6u.md.gif](https://iili.io/d6AFN6u.md.gif)](https://freeimage.host/i/d6AFN6u)
-
 # 💫 About Me:
 I'm Hosein, also known as cyberllloner, a Linux, networking, cybersecurity, and programming enthusiast<br><br>🌱 I’m currently learning networking and python
 
