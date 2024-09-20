@@ -17,7 +17,8 @@ I'm Hosein, also known as cyberllloner, a Linux, networking, cybersecurity, and 
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cyberllloner&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberllloner&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![cyberllloner's Stats](https://github-readme-stats.vercel.app/api?username=cyberllloner&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![cyberllloner's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cyberllloner&theme=gotham&hide_border=true)
+![cyberllloner's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberllloner&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
