@@ -1,10 +1,17 @@
 # 💫 About Me:
-I'm Hosein, also known as cyberllloner, a Linux, networking, cybersecurity, and programming enthusiast<br><br>🌱 I’m currently learning networking and python
 
+```python
+about_me = [
+    "name: Hosein",
+    "alias: cyberllloner",
+    "interests: Linux, Networking, Cybersecurity, Programming",
+    "currently_learning: Networking, Python"
+]
+```
 
 # 💻 Tech Stack:
 <div style="display: flex; align-items: center; justify-content: flex-start;">
-    <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" width="60">
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" width="50">
     <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="50">
     <img src="https://cdn.worldvectorlogo.com/logos/varnish.svg" alt="Varnish" width="60">
     <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" width="60">
