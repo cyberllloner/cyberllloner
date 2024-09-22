@@ -1,5 +1,9 @@
-# 💫 About Me:
+<p align="center">
+  <img src="https://github.com/cyberllloner/cyberllloner/blob/main/readme.gif" alt="Readme GIF"/>
+  <img src="https://github.com/cyberllloner/cyberllloner/blob/main/octocat.png" alt="Octocat" width="400"/>
+</p>
 
+# 💫 About Me:
 ```python
 about_me = [
     "name: Hosein",
