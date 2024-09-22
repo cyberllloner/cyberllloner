@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/cyberllloner/cyberllloner/blob/main/readme.gif" alt="Readme GIF" width="700"/>
+  <img src="https://github.com/cyberllloner/cyberllloner/blob/main/readme.gif" alt="Readme GIF" width="800"/>
   <br/>
   <img src="https://github.com/cyberllloner/cyberllloner/blob/main/octocat.png" alt="Octocat" width="300"/>
 </p>
