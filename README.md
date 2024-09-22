@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/cyberllloner/cyberllloner/blob/main/readme.gif" alt="Readme GIF"/>
-  <img src="https://github.com/cyberllloner/cyberllloner/blob/main/octocat.png" alt="Octocat" width="400"/>
+  <img src="https://github.com/cyberllloner/cyberllloner/blob/main/readme.gif" alt="Readme GIF" width="700"/>
+  <br/>
+  <img src="https://github.com/cyberllloner/cyberllloner/blob/main/octocat.png" alt="Octocat" width="300"/>
 </p>
 
 # 💫 About Me:
