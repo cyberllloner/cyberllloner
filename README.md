@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Hosein Salmani<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<h5 align="left">🔭 I’m currently working on some personal projects.<br>📚 I'm currently learning more about GNU/Linux & Programming.</h5>
 
 ###
 
