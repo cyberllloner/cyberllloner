@@ -40,6 +40,6 @@
 <img
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberllloner&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberllloner&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_title=true)
 
 ###
