@@ -40,6 +40,6 @@
 <img
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=cyberllloner&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberllloner&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ###
