@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/cyberllloner/cyberllloner/blob/main/toothless.gif" alt="Toothless" width="250"/>
+  <img src="https://github.com/cyberllloner/cyberllloner/blob/main/toothless.gif" alt="Toothless" width="300"/>
 </p>
 
 ###
