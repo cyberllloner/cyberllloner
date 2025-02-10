@@ -1,5 +1,3 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=100&color=57BCDA&section=header)
-
 <div align="center">
   <h1>Hello there! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></a> I'm Hosein</h1>
   <img src="https://github.com/cyberllloner/cyberllloner/blob/main/toothless.gif" alt="Toothless" width="250"/>
@@ -49,5 +47,3 @@
 </div>
 
 ###
-
-![](https://capsule-render.vercel.app/api?type=waving&height=100&color=57BCDA&section=footer)
