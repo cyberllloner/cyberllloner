@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=100&color=57BCDA)
+![](https://capsule-render.vercel.app/api?type=waving&height=80&color=57BCDA&section=header)
 
 <div align="center">
   <h1>Hello there! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></a> I'm Hosein</h1>
@@ -50,4 +50,4 @@
 
 ###
 
-![](https://capsule-render.vercel.app/api?type=waving&height=100&color=57BCDA&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&height=80&color=57BCDA&section=footer)
