@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hello there! 👋🏻 I'm Hosein</h2>
+  <h1>Hello there! 👋🏻 I'm Hosein</h1>
   <img src="https://github.com/cyberllloner/cyberllloner/blob/main/toothless.gif" alt="Toothless" width="250"/>
 </div>
 
