@@ -1,8 +1,7 @@
-  <p align="center">
+<p align="center">
+  <img src="https://github.com/cyberllloner/cyberllloner/blob/main/motherboard.png?raw=true" width="250" alt="Motherboard Pixel Art">
+  <br><br>
+  <font size="5">Hello there! I'm <b>Hosein Salmani</b></font>
   <br>
-  <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Hosein</a></b>.
-    <br>I'm an Average GNU/Linux Enjoyer ^^<br>
-</samp>
-  <img src="https://github.com/cyberllloner/cyberllloner/blob/main/toothless.gif" width="300">
+  <font size="3" color="gray">I am an IT Support Technician</font>
 </p>
