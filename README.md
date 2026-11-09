@@ -3,7 +3,7 @@
   <br><br>
   <font size="5" color="#D4AF37">Hello there! I'm <b>Hosein Salmani</b></font>
   <br>
-  <font size="3" color="#85929E">Desktop Support Technician</font>
+  <font size="3" color="#85929E">IT Support Technician</font>
 </p>
 
 ---
