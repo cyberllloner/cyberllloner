@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- تصویر مادربرد شما از مخزن گیت‌هاب -->
+
   <img src="purple-motherboard.png" alt="Purple Motherboard" width="350" style="border-radius: 15px; box-shadow: 0 0 20px rgba(168, 85, 247, 0.4);" />
   
   <br><br>
@@ -30,6 +30,19 @@
 *   **Hardware:** PC Assembly, Component Testing, Upgrades & Maintenance.
 *   **Software:** OS Installation, Configuration, and User-End Troubleshooting.
 *   **Passive Network:** Managing physical layer tasks and passive network maintenance.
+
+<br>
+
+### **🌱 Free/Libre and Open Source Software**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FLOSS_Enthusiast-A855F7?style=for-the-badge&labelColor=000000" /> &nbsp;
+  <img src="https://img.shields.io/badge/GNU%2FLinux_User-8B5CF6?style=for-the-badge&labelColor=000000" />
+</p>
+
+As a regular GNU/Linux user, I volunteer and contribute to the FLOSS movement in any way I can.
+
+*   **Current Contribution:** Linux mint translation.
 
 <br>
 
