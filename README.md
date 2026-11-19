@@ -4,7 +4,7 @@
   
   <br><br>
   
-  <h2 style="color: #A855F7; margin-bottom: 5px;">Hello there! I'm <b>Hossein Salmani</b></h2>
+  <h2 style="color: #A855F7; margin-bottom: 5px;">Hello there! I'm <b>Hosein Salmani</b></h2>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=IT+Support+Technician;Hardware+%7C+Software+%7C+Network" alt="Typing SVG" />
