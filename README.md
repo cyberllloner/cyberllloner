@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="لینک-عکس-مادربرد-شما.png" alt="Motherboard" width="350" style="border-radius: 15px; box-shadow: 0 0 20px rgba(168, 85, 247, 0.4);" />
+  <!-- تصویر مادربرد شما از مخزن گیت‌هاب -->
+  <img src="purple-motherboard.png" alt="Purple Motherboard" width="350" style="border-radius: 15px; box-shadow: 0 0 20px rgba(168, 85, 247, 0.4);" />
   
   <br><br>
   
