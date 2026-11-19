@@ -1,28 +1,39 @@
-<p align="center">
-  <img src="https://github.com/cyberllloner/cyberllloner/blob/main/motherboard.png?raw=true" width="220" alt="Motherboard Pixel Art">
+<div align="center">
+  <img src="لینک-عکس-مادربرد-شما.png" alt="Motherboard" width="350" style="border-radius: 15px; box-shadow: 0 0 20px rgba(168, 85, 247, 0.4);" />
+  
   <br><br>
-  <font size="5" color="#D4AF37">Hello there! I'm <b>Hosein Salmani</b></font>
-  <br>
-  <font size="3" color="#85929E">IT Support Technician</font>
+  
+  <h2 style="color: #A855F7; margin-bottom: 5px;">Hello there! I'm <b>Hossein Salmani</b></h2>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=IT+Support+Technician;Hardware+%7C+Software+%7C+Network" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+<p align="center" style="color: #c9d1d9; max-width: 600px; margin: auto;">
+  Focused on client-side troubleshooting and IT infrastructure. I provide comprehensive hardware, software, and passive network support, backed by specialized training and professional work experience.
 </p>
+
+<br>
+
+### **⚡ Core Skills**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Hardware_Support-A855F7?style=for-the-badge&logo=cpu&logoColor=white&labelColor=000000" /> &nbsp;
+  <img src="https://img.shields.io/badge/Software_Support-8B5CF6?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" /> &nbsp;
+  <img src="https://img.shields.io/badge/Passive_Network-7C3AED?style=for-the-badge&logo=ethernet&logoColor=white&labelColor=000000" />
+</p>
+
+*   **Hardware:** PC Assembly, Component Testing, Upgrades & Maintenance.
+*   **Software:** OS Installation, Configuration, and User-End Troubleshooting.
+*   **Passive Network:** Managing physical layer tasks and passive network maintenance.
+
+<br>
 
 ---
 
-<p align="left">
-  <font size="3">
-    Focused on client-side troubleshooting, hardware assembly, and OS configuration based on hands-on workshop and internship experiences. Proficient in resolving user-end issues with a solid understanding of network fundamentals.
-  </font>
-</p>
-
-<h4>Core Skills</h4>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Hardware-0B6623?style=flat-square&labelColor=D4AF37" alt="Hardware"> 
-  <font size="3">PC Assembly, Component Testing, Upgrades & Maintenance.</font>
-  <br><br>
-  <img src="https://img.shields.io/badge/OS_&_Software-0B6623?style=flat-square&labelColor=D4AF37" alt="OS & Software"> 
-  <font size="3">Installation, Configuration, and User-End Troubleshooting.</font>
-  <br><br>
-  <img src="https://img.shields.io/badge/Networking-0B6623?style=flat-square&labelColor=D4AF37" alt="Networking"> 
-  <font size="3">Network+ Fundamentals, Eager to Learn & Expand Knowledge.</font>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberllloner&show_icons=true&theme=radical&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0D1117" alt="Hossein's GitHub Stats" />
+</div>
