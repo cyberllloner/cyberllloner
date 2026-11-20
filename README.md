@@ -42,7 +42,7 @@
 
 As a regular GNU/Linux user, I volunteer and contribute to the FLOSS movement in any way I can.
 
-*   **Current Contribution:** Linux mint translation.
+*   **Current Contribution:** Linux mint translation, tldr-pages
 
 <br>
 
